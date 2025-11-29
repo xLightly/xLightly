@@ -59,6 +59,6 @@ You can find me on GitHub or drop a message — I’m always open to meaningful 
 
 <div align="center">
 
-### Show some ❤️ by starring my repos or joining a hackathon together!
+### Show some ❤️ by starring my repos
 
 </div>
