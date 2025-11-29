@@ -1,5 +1,4 @@
 ## Hey there 👋, I'm [Irakli!](https://github.com/xLightly/)  
-### Glad to see you here!
 
 I’m a Backend Developer transitioning from Java to **Go**, with a clear goal: become a **Fullstack Engineer** who builds smart, scalable systems. I’m deeply curious about **Machine Learning** and **Deep Learning**, and I’m actively exploring how they can power intelligent applications.
 
